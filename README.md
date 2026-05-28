@@ -112,22 +112,3 @@
 
 <div align="center">
 
-## ⚡ Fun Quote  
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
-
-### 🐍 Contribution Snake Animation  
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Esam Juma</a>
-
-</div>
