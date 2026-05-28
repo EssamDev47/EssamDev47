@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/essam-juma-573180391/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaaA4lMp5S8CeTkTVKFR%2FEA%3D%3D)">
+<a href="https://www.linkedin.com/in/essam-juma">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
