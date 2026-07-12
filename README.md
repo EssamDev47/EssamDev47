@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World, I'm Esam Juma  
+# 👋 Hello World, I'm Essam
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%9A%80;Building+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 
